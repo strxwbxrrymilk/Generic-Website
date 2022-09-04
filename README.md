@@ -1,1 +1,1 @@
-# Generic-Commerce-Website
+# Generic-Website
